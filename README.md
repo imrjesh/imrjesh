@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-A highly skilled and innovative scientist with a doctorate and eight years of dedicated experience in the field of
-Bioinformatics and computational biology.
-My expertise lies in the design and development of efficient analytical systems tailored for extracting valuable insights from vast datasets in genomics, transcriptomics, and proteomics. 
+🚀 Rajesh Kumar, Ph.D. | Bioinformatics Scientist @ National Institutes of Health, USA
+🔬 Specializing in NGS data analysis, multi-omics integration, & machine learning
+💡 Building scalable bioinformatics pipelines (nf-core, AWS, HPC) for genomics, transcriptomics, & epigenomics
+🧬 Passionate about cancer genomics, biomarker discovery, & computational immunology
+📊 Skilled in Python, R, Bash, Linux, and advanced data visualization
+🌐 Developed 15+ open-source bioinformatics tools & databases
+📄 39+ publications | 1000+ citations | Editor | Peer Reviewer
