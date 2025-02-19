@@ -12,4 +12,4 @@
 
 🌐 Developed 15+ open-source bioinformatics tools & databases
 
-📄 39+ publications | 1000+ citations | Editor | Peer Reviewer
+📄 40+ publications | 1000+ citations | Editor | Peer Reviewer
